@@ -7,6 +7,5 @@ Covid- 19 is the virus that came out of nowhere and forced the entire world into
 The data set has been taken from the website https://api.rootnet.in/covid19-in/unofficial/covid19india.org/statewise
 
 Below is the link to the notebook - which includes the map (indicating the virus's affect)
-
 https://www.kaggle.com/shashifed/covid-analysis
 
